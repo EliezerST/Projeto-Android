@@ -117,7 +117,7 @@ nav > a {
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
-    line-height: 1.5em;
+    line-height: 2.0em;
     font-family: var(--fonte-padrao);
     transition-duration: 500ms;
 
